@@ -1,4 +1,4 @@
-# Sample-Data-Dashboard
+# Sales Performance Dashboard
 -> Showcasing My Latest Dashboard Project!
 
 I recently created this interactive dashboard for XYZ Company using sample data to analyze business performance effectively. This dashboard highlights:
